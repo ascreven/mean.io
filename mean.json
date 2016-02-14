@@ -1,4 +1,6 @@
 {
     "dependencies": {},
-    "anonymizedData": true
+    "anonymizedData": true,
+    "name": "mean-io",
+    "id": "56c086d69b5630b120138de5"
 }
